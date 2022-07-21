@@ -39,5 +39,6 @@
   <h3 align="center">General Statistics</h3>
   ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHUBHAMPIRATE&theme=github_dark&show_icons=true&hide_border=true&card_width=600)
  <div/> 
-  <h3 align="center">Streak Statistics </h2>
+ <h3 align="center">Streak Statistics </h2>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHUBHAMPIRATE&theme=holi-theme&hide_border=true&card_width=600)](https://git.io/streak-stats)
+ <div/>
