@@ -36,8 +36,8 @@
 <div align="center">
  <h3 >Most Used Language</h3>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAMPIRATE&layout=compact&theme=github_dark&hide_border=true&card_width=600)](https://github.com/SHUBHAMPIRATE/github-readme-stats'/>
-  
- <div/>         
-<a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=SHUBHAMPIRATE&theme=react&background=0d1117&border=666">
-  </a>
+  <h3 align="center">General Statistics</h3>
+  ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHUBHAMPIRATE&theme=github_dark&show_icons=true&hide_border=true&card_width=600)
+ <div/> 
+  <h3 align="center">Streak Statistics </h2>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHUBHAMPIRATE&theme=holi-theme&hide_border=true&card_width=600)](https://git.io/streak-stats)
