@@ -42,6 +42,6 @@
        
  <h3 align="center">Streak Statistics </h2>
   <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=dishantzaveri&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=SHUBHAMPIRATE&theme=react&background=0d1117&border=666">
   </a>
  <div/>
